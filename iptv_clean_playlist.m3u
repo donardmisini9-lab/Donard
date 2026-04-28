@@ -1,0 +1,20 @@
+#EXTM3U
+
+# SPORT
+#EXTINF:-1 group-title="SPORT",ART SPORT 1
+http://faucontv.live:8080/live/live:iptvtree/CPAjp696cG/189425.ts
+
+#EXTINF:-1 group-title="SPORT",ART SPORT 2
+http://faucontv.live:8080/live/live:iptvtree/CPAjp696cG/189426.ts
+
+#EXTINF:-1 group-title="SPORT",ART SPORT 3
+http://faucontv.live:8080/live/live:iptvtree/CPAjp696cG/189427.ts
+
+#EXTINF:-1 group-title="SPORT",SS 2 4K HD
+http://faucontv.live:8080/live/live:iptvtree/CPAjp696cG/189412.ts
+
+#EXTINF:-1 group-title="SPORT",SS 2 FHD HD
+http://faucontv.live:8080/live/live:iptvtree/CPAjp696cG/189414.ts
+
+#EXTINF:-1 group-title="SPORT",SS 1 4K HD
+http://faucontv.live:8080/live/live:iptvtree/CPAjp696cG/189413.ts
